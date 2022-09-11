@@ -17,6 +17,8 @@ specific language governing permissions and limitations
 under the License.
 -->
 
+THIS IS A FORK OF THE MAIN REPOSITORY, PLEASE CHECK BEFORE USING
+
 # Superset
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
